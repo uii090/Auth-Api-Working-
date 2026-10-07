@@ -53,7 +53,8 @@ app.get("/api/users", (req, res) => {
   const publicUsers = users.map(user => ({
     LastName: user.LastName,
     FirstName: user.FirstName,
-    Email: user.Email
+    Email: user.Email,
+    Password: user.Password
   }));
 
   res.json(publicUsers);
