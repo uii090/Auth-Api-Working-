@@ -23,13 +23,13 @@ const users = [
     LastName: "Guardiario",
     FirstName: "Gil",
     Email: "gil.guardiario090@gmail.com",
-    Password: "YOUR_PASSWORD_HERE"
+    Password: "tanawmanka"
   },
   {
     LastName: "Diko",
     FirstName: "Sure",
     Email: "diko_sure@ifsaktoni.com",
-    Password: "YOUR_PASSWORD_HERE"
+    Password: "wajudkayklaro"
   }
 ];
 
